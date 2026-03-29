@@ -1,2 +1,5 @@
-.env
+# .env
 .venv
+__pycache__/
+*.pyc
+test_result.txt
